@@ -1,0 +1,12 @@
+World of Warcraft 1.12.1 Addon zur Anzeige der Gilde in FuBar
+
+Von mir vorgenommene Änderungen:
+- Wenn man sich gleichzeitig die öffentlichen Notizen und die Offiziersnotizen anzeigen lässt, dann werden nun nicht mehr an erster Stelle
+  die Öffentlichen angezeigt sondern die Offiziersnotizen.
+
+Nützliche Links:
+World of Warcraft 1.12.1 API
+http://vanilla-wow.wikia.com/wiki/World_of_Warcraft_API
+http://www.wowwiki.com/index.php?title=World_of_Warcraft_API&oldid=281620
+Programming in Lua
+http://www.lua.org/pil/contents.html
